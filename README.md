@@ -1,4 +1,5 @@
 # Faucet Mavryk Network
+![image](https://github.com/user-attachments/assets/2806a193-0d4b-4568-b910-d4906e9e0fb0)
 
 
 ## Fitur Utama
