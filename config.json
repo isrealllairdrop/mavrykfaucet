@@ -1,0 +1,7 @@
+{
+  "api_id": "ISI DISINI",
+  "api_hash": "ISI DISINI",
+  "delay_antar_perintah_detik": 3,
+  "delay_antar_alamat_detik": 3,
+  "ulangi_setiap_jam": 6
+}
