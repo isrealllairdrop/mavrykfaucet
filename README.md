@@ -1,5 +1,8 @@
 # Faucet Mavryk Network
 
+## FOR VIP @AirdropFamilyIDN. Need PM me
+Membership dapat akses tools & BOT untuk mempermudah garapan airdrop, testnet & belajar, bisa Open Jastip Bot di Channel lain atau di FB
+#
 PM me : [TELEGRAM](https://t.me/Isrealll1)
 
 AIRDROP CHANNEL : [AirdropFamilyIDN](https://t.me/AirdropFamilyIDN)
